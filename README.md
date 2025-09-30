@@ -272,7 +272,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Your Name**  
-- GitHub: [[@your-username](https://github.com/your-username)](https://github.com/code-with-neeraj)
+- GitHub: https://github.com/code-with-neeraj
 - Email: neerajkr145518@gmail.com
 ---
 
